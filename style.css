@@ -1,3 +1,5 @@
+/* HERO STYLES */
+
 #sw-hero{
   background-image: url('images/title-bg.png');
   height: 400px;
@@ -21,4 +23,64 @@
   max-width: 1000px;
   display: block;
   margin: 0 auto;
+}
+
+/* ICON AREA STYLES */
+
+#sw-icons{
+  background-color: black;
+  color: #b6b7b7;
+  padding-top: 10px;
+}
+
+.icon-area-size{
+  max-width: 700px;
+}
+
+#sw-icons p{
+  text-align:center;
+}
+
+#sw-icons img{
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* MISSION STATEMENT STYLES */
+
+
+/* 5 COLUMN LAYOUT STYLES */
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
 }
