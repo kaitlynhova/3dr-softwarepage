@@ -43,6 +43,16 @@ h1{
   max-width: 700px;
 }
 
+#sw-icons a , #sw-icons{
+  color: #b6b7b7;
+  transition: .5s;
+}
+
+#sw-icons a:hover{
+  color: #b6b7b7;
+  opacity: .7;
+}
+
 #sw-icons p{
   text-align:center;
 }
