@@ -184,7 +184,7 @@ a {
 
 /* SMALL DEVICES*/
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   #sw-3drservices h1{
     padding-top: 0px;
   }
