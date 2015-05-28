@@ -50,6 +50,39 @@
 
 /* MISSION STATEMENT STYLES */
 
+.center-text{
+  text-align:center;
+}
+
+.justify-text{
+  text-align: justify;
+}
+
+#sw-mission{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.that-green-button{
+  background-color: #7ec241;
+  color: white !important;
+  padding: 20px;
+  display: block;
+  width: 100%;
+  max-width: 221px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  transition: .5s;
+  padding-bottom: 9px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none !important;
+  }
+
+.that-green-button:hover{
+  opacity: .7;
+}
 
 /* 5 COLUMN LAYOUT STYLES */
 
