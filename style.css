@@ -84,6 +84,14 @@ a {
   opacity: .7;
 }
 
+
+#sw-soloapp{
+  background: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 /* 5 COLUMN LAYOUT STYLES */
 
 .col-xs-15,
