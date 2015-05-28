@@ -1,5 +1,7 @@
 /* HERO STYLES */
-
+img{
+  width: 100%;
+}
 #sw-hero{
   background-image: url('images/title-bg.png');
   height: 400px;
@@ -59,8 +61,8 @@
 }
 
 #sw-mission{
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .that-green-button{
@@ -88,8 +90,8 @@ a {
 #sw-soloapp{
   background: black;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 /* 5 COLUMN LAYOUT STYLES */
