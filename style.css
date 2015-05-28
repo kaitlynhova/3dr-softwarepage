@@ -114,6 +114,16 @@ a {
   max-width: 300px;
 }
 
+/* DRONEKIT AREA */
+
+#sw-dronekit{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#sw-dronekit .that-green-button{
+  max-width: 161px;
+}
 /* 5 COLUMN LAYOUT STYLES */
 
 .col-xs-15,
