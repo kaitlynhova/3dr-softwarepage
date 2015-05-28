@@ -78,20 +78,40 @@ img{
   padding-bottom: 9px;
   text-decoration: none;
 }
+
 a {
   text-decoration: none !important;
   }
+
+.no-padding-left{
+  padding-left: 0px !important;
+}
 
 .that-green-button:hover{
   opacity: .7;
 }
 
+.sw-subheader{
+  font-weight: 100;
+  padding-bottom: 10px;
+  margin-top: -5px;
+}
+
+/* SOLO APP AREA */
 
 #sw-soloapp{
   background: black;
   color: white;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.sw-app-button{
+  max-width: 200px;
+}
+
+.sw-app-button-group{
+  max-width: 300px;
 }
 
 /* 5 COLUMN LAYOUT STYLES */
