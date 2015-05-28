@@ -9,6 +9,10 @@ img{
   padding-top: 140px;
 }
 
+h1{
+  font-weight: 300 !important;
+}
+
 #sw-hero h1{
   text-align:center;
   color: white;
@@ -148,6 +152,43 @@ a {
 #sw-3drservices .that-green-button{
   max-width: 138px;
 }
+
+/* TOWER AREA */
+
+#sw-tower{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#sw-tower img{
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+#sw-tower .that-green-button{
+  max-width: 138px;
+}
+
+/* DRONECODE AREA*/
+
+#sw-dronecode{
+  background-image: url('images/dronecode-bg.png');
+  background-size: cover;
+  color:white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#sw-dronecode img{
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+#sw-dronecode .that-green-button{
+  max-width: 138px;
+}
+
 /* 5 COLUMN LAYOUT STYLES */
 
 .col-xs-15,
