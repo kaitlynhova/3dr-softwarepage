@@ -124,6 +124,30 @@ a {
 #sw-dronekit .that-green-button{
   max-width: 161px;
 }
+
+/* 3DR SERVICES AREA */
+
+#sw-3drservices{
+  background-image: url('images/3drs-bg.png');
+  background-size: cover;
+  color:white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#sw-3drservices h1{
+  padding-top: 150px;
+}
+
+#sw-3drservices img{
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+#sw-3drservices .that-green-button{
+  max-width: 138px;
+}
 /* 5 COLUMN LAYOUT STYLES */
 
 .col-xs-15,
@@ -156,4 +180,12 @@ a {
         width: 20%;
         float: left;
     }
+}
+
+/* SMALL DEVICES*/
+
+@media (max-width: 768px) {
+  #sw-3drservices h1{
+    padding-top: 0px;
+  }
 }
