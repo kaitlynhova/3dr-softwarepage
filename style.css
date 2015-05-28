@@ -122,6 +122,11 @@ a {
 
 .sw-app-button{
   max-width: 200px;
+  transition: .5s;
+}
+
+.sw-app-button:hover{
+  opactiy: .7;
 }
 
 .sw-app-button-group{
